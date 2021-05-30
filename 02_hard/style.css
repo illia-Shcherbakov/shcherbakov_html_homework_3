@@ -1,0 +1,140 @@
+
+.container{
+    max-width: 950px;
+    width: 100%;
+    margin: 0 auto;
+    background-color: #990909;
+
+}
+
+.container__header{
+    padding-top: 15px;
+    padding-bottom: 10px;
+
+}
+
+.heading__link{
+    margin: 0 auto;
+    width: 260px;
+    text-align: center;
+    border-top: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+    font-size: 18px;
+}
+
+.header__link-color{
+    color: white;
+    text-decoration: none;
+}
+
+.header__nav{
+    background-color: black;
+    margin: 10px 0 0 8px;
+    height: 160px;
+}
+
+.header__intro{
+    width: 150px;
+    float: left;
+    margin-left: 84px;
+    margin-top: 20px;
+    height: 140px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.header__intro:first-child{
+    margin-left: 40px;
+}
+
+.header__img{
+    width: 150px;
+    height: 115px;
+    overflow: hidden;
+}
+
+.header__link{
+    border: none;
+    text-decoration: none;
+    color: white;
+}
+
+.container__main{
+    height: 312px;
+}
+
+.main__block_link{
+    width: 200px;
+    height: 290px;
+    background-color: #7d0909;
+    margin-left: 8px;
+    float: left;
+}
+
+.main__link{
+    margin-bottom: 15px;
+    font-size: 18px;
+}
+
+.main__link_color{
+    color: #bf3911;
+}
+
+.main__text{
+    font-size: 18px;
+    width: 575px;
+    height: 290px;
+    float: left;
+    padding-left: 2px;
+    padding-right: 10px;
+}
+
+.main__title_block{
+    width: 150px;
+    height: 290px;
+    margin-right: 2px;
+    background-color: #e3dddd;
+    float: left;
+
+}
+
+.main__title{
+    background-color: #bdbdbd;
+    text-align: center;
+    margin: 0;
+    font-size: 18px;
+}
+
+.main__line{
+    width: 80px;
+}
+
+.main__title_text{
+    margin-bottom: 10px;
+}
+
+
+.container__footer{
+   height: 50px;
+}
+
+.footer__copyright{
+    width: 936px;
+    height: 20px;
+    background-color: #e95b11;
+    text-align: center;
+
+}
+
+.footer__copyright_text{
+    margin: 0;
+    background-color: #e95b11;
+    text-align: center;
+    font-size: 20px;
+}
+
+.icon__copyright{
+    width: 16px;
+    height: 16px;
+}
+

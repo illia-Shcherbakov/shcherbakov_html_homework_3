@@ -1,0 +1,67 @@
+body{
+    width: 100%;
+    max-width: 785px;
+    margin: 0 auto;
+}
+header{
+    margin-top: 25px;
+}
+
+.container__header{
+    width: 777px;
+    background-color: #a52a2a;
+    text-align: center;
+    font-size: 22px;
+    margin-left: 8px;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+.sunset{
+   margin: 0 0 0 8px;
+}
+
+.loren1{
+    width: 730px;
+    margin-left: 8px;
+    font-size: 18px;
+}
+
+.text__bold{
+    font-weight: bold;
+}
+
+.italic{
+    font-style: italic;
+}
+
+.cars__img{
+    width: 406px;
+    margin: 0 auto;
+    padding-left: 30px;
+}
+.cars__border{
+    border: dotted;
+}
+.loren2{
+    width: 785px;
+    margin-left: 8px;
+    margin-top: 15px;
+    font-size: 18px;
+}
+.container__footer{
+    width: 777px;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    margin-left: 8px;
+}
+
+.copyright__icon{
+    width: 11px;
+    height: 11px;
+    border: 2px solid #ffffff;
+    border-radius: 50%;
+    background-color: white;
+}
